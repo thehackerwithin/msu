@@ -6,7 +6,7 @@ category: posts
 tags: meeting
 ---
 
-Hi Ana. This is a template for meeting posts. 
+Hi Camille. This is a template for meeting posts. 
 In the above yaml markup, you'll see layout. Leave that as "post" unless you 
 create a new layout format. The title should be the title of your meeting. 
 Comments can be enabled or disabled (disqus) with true or false. Tag it whatever 
